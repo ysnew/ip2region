@@ -1,0 +1,23 @@
+{
+  "type": "library",
+  "name": "ysnew/ip2region",
+  "homepage": "https://github.com/ysnew/ip2Region",
+  "description": "Ip2Region for PHP",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Ys"
+    }
+  ],
+  "keywords": [
+    "Ip2Region"
+  ],
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "classmap": [
+      "Ip2Region.php"
+    ]
+  }
+}
